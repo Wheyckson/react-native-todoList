@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="IgniteReact" title="#IgniteReact" src="./desafio-01/src/assets/Capa.png" width="1000" height="400"/>
+    <img alt="IgniteReact" title="#IgniteReact" src="assets/Capa.png" width="1000" height="400"/>
 </h1>
 
 <h4 align="center"> 
